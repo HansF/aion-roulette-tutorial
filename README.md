@@ -1,4 +1,4 @@
-# Aion Pet Roulette
+# Aion Pet Roulette!
 
 ![Four Animals in a Row](img/readme-image.png)
 
